@@ -16,6 +16,10 @@ We can obserse that this structure includes:
 4. Positional Embedding - this takes into account the position of each token, making this structure surpasses normal LSTMs or RNNs.
 
 
+
+<b>In case you want to try to implement this on your local computer</b>
+
+
 To clone this repository, run the following command:
 
 ```
