@@ -18,8 +18,12 @@ We can obserse that this structure includes:
 
 To clone this repository, run the following command:
 
+```
 git clone https://github.com/phanng0605/PytorchTransformer.git
+```
 
-Install requirement:
+Install required packages:
 
+```
 pip install -r requirements.txt
+```
