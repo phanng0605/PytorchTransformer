@@ -2,12 +2,16 @@
 This is my implementation of Transformer using Pytorch from scratch, going through the Encoder-Decoder structure.
 
 
+
+
 Here is the structure of it when we go through the details: 
 
 <img src="https://lenngro.github.io/assets/images/2020-11-07-Attention-Is-All-You-Need/transformer-model-architecture.png" alt="Alternative Text" width="500">
 
 
-<b>Some emergent things to take note</b>:
+
+
+<b>A. Some emergent things to take note</b>:
 
 We can obserse that this structure includes:  
 1. Transformer Block - which is the main component of the Encoder.
@@ -17,7 +21,10 @@ We can obserse that this structure includes:
 
 
 
-<b>In case you want to try to implement this on your local computer</b>
+
+
+
+<b>B. In case you want to try to implement this on your local computer</b>
 
 
 To clone this repository, run the following command:
