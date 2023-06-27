@@ -14,3 +14,12 @@ We can obserse that this structure includes:
 2. Decoder Block - which includes the Masked Multi-Head Attention and the Transformer Block.
 3. Multi-Head Attention and Masked Multi-Head Attention - this takes into account the importance of each token to others, making this structure surpasses normal LSTMs or RNNs
 4. Positional Embedding - this takes into account the position of each token, making this structure surpasses normal LSTMs or RNNs.
+
+
+To clone this repository, run the following command:
+
+git clone https://github.com/phanng0605/PytorchTransformer.git
+
+Install requirement:
+
+pip install -r requirements.txt
